@@ -1,0 +1,14 @@
+[
+    {"id": 1, "categoria": "madera y tela", "nombre": "silla marron", "precio": "1000", "imagen": "/producto1.png"  },
+    {"id": 2, "categoria": "madera y cuerina", "nombre": "silla blanca", "precio": "2000", "imagen": "/producto2.png"  },
+    {"id": 3, "categoria": "madera y plastico", "nombre": "silla negra", "precio": "3000", "imagen": "/producto3.png"  },
+    {"id": 4, "categoria": "madera y plastico", "nombre": "silla con asta", "precio": "1500", "imagen": "/producto4.png"  },
+    {"id": 5, "categoria": "metal y plastico", "nombre": "silla de tira", "precio": "1800", "imagen": "/producto5.png"  },
+    {"id": 6, "categoria": "plastico", "nombre": "silla amarilla", "precio": "2100", "imagen": "/producto6.png"  },
+    {"id": 7, "categoria": "metal", "nombre": "silla de tira yellow", "precio": "1900", "imagen": "/producto7.png"  },
+    {"id": 8, "categoria": "madera", "nombre": "silla bronw", "precio": "2400", "imagen": "/producto8.png"  },
+    {"id": 9, "categoria": "madera y plastico", "nombre": "silla black", "precio": "2300", "imagen": "/producto9.png"  },
+    {"id":10 , "categoria": "madera y tela", "nombre": "silla de cuerina", "precio": "2000", "imagen": "/producto10.png"  },
+    {"id":11 , "categoria": "metal y plastico", "nombre": "silla de tira beige", "precio": "1400", "imagen": "/producto11.png"  },
+    {"id":12 , "categoria": "madera", "nombre": "silla madera marron", "precio": "1300", "imagen": "/producto12.png"  }
+]
